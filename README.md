@@ -12,7 +12,7 @@
 * Quick Delete
 * Rename
 * Remove directory
-* path statistics
+* Path statistics
 * Stream download
 * Stream Upload
 * Symbolic link
